@@ -93,7 +93,7 @@ python detect.py --weights ../last.pt --source path/to/video.mp4
 
 ---
 
-## 📸 Sample Output
+## Sample Output
 
 * Detects riders with/without helmets
 * Highlights number plates
